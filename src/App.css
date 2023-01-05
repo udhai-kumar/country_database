@@ -1,0 +1,32 @@
+.flag{
+  width: 100px;
+  height: 50px;
+}
+.border_table {
+  background-color: rgb(14, 189, 189);
+  color: rgb(231, 43, 43);
+}
+td,tbody,thead{
+  color: white;
+}
+tr{
+  color: whitesmoke;
+}
+tr:hover{
+  color: brown !important;
+}
+
+/* .select options{
+  color:rgb(243, 234, 234);
+  font-weight: 600 !important;
+  opacity: 1;
+  background-color: rgb(14, 189, 189);
+  display: flex;
+}
+
+ */
+
+table{
+  background-color:black;
+  opacity: 0.8;
+}
